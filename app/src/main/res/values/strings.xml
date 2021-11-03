@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scroll</string>
+    <string name="añadirComentario">añadirComentario</string>
+    <string name="articuloText">articluloText</string>
+    <string name="articuloSubtitle">articuloSubtitle</string>
+    <string name="articuloTitle">articuloTitle</string>
+    <string name="Titulo">Titulo</string>
+    <string name="Subtitulo">Subtitulo</string>
+    <string name="articulo">articulo</string>
+</resources>
